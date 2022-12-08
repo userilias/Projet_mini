@@ -4,7 +4,7 @@ Name Sujet: Gestion des reservations des terrains.
     qui utilisera: les assosiations et la commune de Tiznit.
     pour quel but: permet a la commune de Tiznit de traiter les reservation des terrains de foot facilement, en minimisant la duree de l'operation.
 <------- End ------->
-<!---- Diagramme de class ---->
+<!---- Diagramme des fonctions ---->
     Utilisateurs Principales:
             .
             .
@@ -12,4 +12,13 @@ Name Sujet: Gestion des reservations des terrains.
             .
             .
 <------------ End ------------->
+<!--------- Objectifs ---------->
+        obj1: Preciser les utilisateurs principales et secandaires du Systeme.
+        obj2: Definir le diagramme des fonctions.
+        obj3: separer les taches qui seront indiquer au next objectifs pour avoire le diagramme de gain et le respecter.
+        obj4: creer Dictionnaire des donnees.             |     obj4':creation des maquettes.
+        obj4: Definir le diagramme des classes.           |
+        obj5: Creation de base de donnees.                |
+        obj6: se lancer dans la programmation.
+<------------- End -------------->
         
