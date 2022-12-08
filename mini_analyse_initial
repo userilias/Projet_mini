@@ -1,0 +1,13 @@
+Name Sujet: Gestion des reservations des terrains.
+<!---- Vision: ----->
+    c'est quoi: une application informatique sous android et windows.
+    qui utilisera: les assosiations et la commune de Tiznit.
+    pour quel but: permet a la commune de Tiznit de traiter les reservation des terrains de foot facilement, en minimisant la duree de l'operation.
+<------- End ------->
+<!---- Diagramme de class ---->
+    Utilisateurs Principales:
+            .
+    Utilisateurs secandaire:
+            .
+<------------ End ------------->
+        
